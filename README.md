@@ -96,19 +96,11 @@ https://lab.stellar.org/r/testnet/contract/CC5TEK3IFXJGECTPJF3KFXVKWR44UDMDXBYPY
 
 ## Interaction Screenshots
 
-Add screenshots of the following actions before submitting:
+- Successful contract deployment: ![figures/deploy.png](figures/deploy.png)
+- Successful `register` invocation: ![figures/register.png](figures/register.png)
+- Successful `complete_quest` invocation: ![figures/complete_quest.png](figures/complete_quest.png)
+- Successful `get_profile` result: ![figures/get_profile.png](figures/get_profile.png)
 
-- Successful contract deployment
-- Successful `register` invocation
-- Successful `complete_quest` invocation
-- Successful `get_profile` result
-
-Example filenames:
-
-- `screenshot_deploy.png`
-- `screenshot_register.png`
-- `screenshot_complete_quest.png`
-- `screenshot_get_profile.png`
 
 ## How to Build
 
